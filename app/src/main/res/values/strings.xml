@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TorahDownloadsNotFromGitLab</string>
+    <string name="speaker_image_description">speaker image</string>
 </resources>
